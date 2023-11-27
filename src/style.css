@@ -30,3 +30,6 @@ a{
   .image{
     width: 5rem;
   }
+  .what{
+    text-decoration: none;
+  }
